@@ -48,6 +48,12 @@ img:nth-child(14){grid-area: img14;}
 }
 
 @media screen and (max-width:842px) {
+    #container::before{
+        content: "For grid please use desktop or tablet sreen";
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+        margin-top: 15px;
+    }
     #container {
         display: flex;
         flex-direction: column;
