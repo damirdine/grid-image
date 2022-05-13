@@ -1,3 +1,3 @@
-#Images grid for desktop
+# Images grid for desktop
 
 it's a training challenge
